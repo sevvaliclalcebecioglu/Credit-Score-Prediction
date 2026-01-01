@@ -35,7 +35,7 @@ This project is a machine learning application developed to predict individuals'
 
 ### 3. Streamlit Interface
 - An interactive **Streamlit interface** was created using the saved model, allowing users to input data.
-- Users can enter information such as income, number of credit cards, and delay history to get a credit score prediction.
+- Users can enter information such as income, number of credit cards, and delay history to get a credit score prediction..
 
 ### 4. Live Demo
 - The application was deployed on **Hugging Face Spaces**.
